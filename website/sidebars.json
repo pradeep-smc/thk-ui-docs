@@ -1,0 +1,6 @@
+{
+  "docs": {
+    "Devices Bird View": ["devices-heartbeat", "devices-location", "devices-alerts", "devices-abstract-view"],
+    "Device Statistics": ["device-stats"]
+  }
+}
