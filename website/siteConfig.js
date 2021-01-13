@@ -23,15 +23,15 @@ const users = [
 const siteConfig = {
     title: "Tahakom", // Title for your website.
     tagline: "Tahakom Fleet Management UI Docs",
-    url: "http://183.82.112.26:7860/", // Your website URL
-    baseUrl: "/", // Base URL for your project */
+    url: "https://pradeep-smc.github.io", // Your website URL
+    baseUrl: "/thk-ui-docs", // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
 
     // Used for publishing and more
     projectName: "Tahakom-Fleet-Management",
-    organizationName: "smartcow",
+    organizationName: "pradeep-smc",
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
